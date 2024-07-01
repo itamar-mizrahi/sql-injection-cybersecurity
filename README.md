@@ -1,3 +1,6 @@
+To see imidiate pipline with no running, use th HTML file, it has all the nessary outputs.  
+
+
 dataset from : https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv?resource=download
 
 
